@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "13.4",
     "react": "latest",
     "react-dom": "latest"
   }
